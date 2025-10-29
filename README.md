@@ -2,7 +2,7 @@
 <h3 align="center">I'm currently studying HBO ICT at Zuyd Hogeschool</h3>
 
 - 🔭 I’m currently working on [QPlanning](private project)
-- 📫 How to reach me **brammunnik77@gmail.com**
+- 📫 How to reach me **2204854munnik@zuyd.nl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
