@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bram</h1>
 <h3 align="center">I'm currently studying HBO ICT at Zuyd Hogeschool</h3>
 
-- 🔭 I’m currently working on [Data Visualisation]()
+- 🔭 I’m currently working on [AI Internship]()
 - 📫 How to reach me **2204854munnik@zuyd.nl**
 
 <h3 align="left">Connect with me:</h3>
